@@ -17,4 +17,9 @@ public class Controller {
 	  public String m2() {
 		  return "hello welcome to controller m2 git practice welcome m22";
 	  }
+
+	  @GetMapping
+	  public String m3() {
+		  return "hello welcome to controller m2 git practice welcome m33 added devloper 2";
+	  }
 }
