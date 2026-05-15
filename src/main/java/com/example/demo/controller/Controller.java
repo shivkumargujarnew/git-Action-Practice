@@ -35,4 +35,12 @@ public class Controller {
 	  public String m5() {
 		  return "hello welcome to controller m2 git practice welcome m33 added devloper 1 methiod m6 addede";
 	  }
+	  @GetMapping
+	  public String m44() {
+		  return "hello welcome to controller m2 git practice welcome m33 added devloper 1";
+	  }
+	  @GetMapping
+	  public String m47() {
+		  return "hello welcome to controller m2 git practice welcome m33 added devloper 1";
+	  }
 }
